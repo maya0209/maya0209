@@ -7,17 +7,15 @@
     
 </div>
 
-
-
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 
 Talking about Personal Stuffs:
 
 - I'm a rich experienced developer for large projects and ready to start your project anytime.
-- Enterprise application development and support like <b>Metaverse</b> : WebGL + Blockchain + Frontend/Backend 
-- <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain, 
-- <b>Blockchain</b> : Bitcoin | Ethereum | BSC | Polygon | Solana | Near | Hedera -  Smart contract | Dapp | DeFi | Dex | GameFi
-- <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular |  Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
+- Enterprise application development and support like <b>Metaverse</b> : WebGL + Blockchain + Frontend/Backend
+- <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain,
+- <b>Blockchain</b> : Bitcoin | Ethereum | BSC | Polygon | Solana | Near | Hedera - Smart contract | Dapp | DeFi | Dex | GameFi
+- <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Mobile</b> : React-Native | Expo | EAS | Ionic
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
@@ -26,10 +24,10 @@ Talking about Personal Stuffs:
 - Agile Methodology, Scrum Meeting
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
+
 <div align="center">
 
-
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Top Skills</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Skills</h2>
 <table>
     <tr>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabdp55k_LqswPzoS-_Tt9XeoDsJvOebbCR7HsfEoBs4v1jvATvCjoK5PI27s6ikmwOdw&usqp=CAU" title="ChatGPT" width="100" alt="ChatGPT"></td>
