@@ -1,9 +1,9 @@
 <div align="center">
     
     
-![](https://readme-typing-svg.herokuapp.com/?lines=ChatGPT%20Expert;Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;Mobile%20Specialist;11%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=ChatGPT%20Expert;Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;Mobile%20Specialist;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
  
- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ ##
     
 </div>
 <div align="center">
@@ -13,8 +13,9 @@
 </div>
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
-
+<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
 Talking about Personal Stuffs:
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - I'm a rich experienced developer for large projects and ready to start your project anytime.
 - Enterprise application development and support like <b>Metaverse</b> : WebGL + Blockchain + Frontend/Backend
