@@ -31,13 +31,12 @@
 <div align="center">
     
  
- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ ## My profile.
     
 </div>
-Other Skills:
+I am a front-end web developer with 10+ years of experience..
 
-- I am a front-end web developer with 10+ years of experience..
-- MainStack is HTML5,CSS3(SASS,LESS),JAVASCRIPT(ES6),REACT,NEXT
+- <b>MainStack</b> HTML5 | CSS3(SASS,LESS) | JAVASCRIPT(ES6) | REACT | NEXT | PYTHON
 - <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain,
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
