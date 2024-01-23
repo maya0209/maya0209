@@ -13,7 +13,7 @@
 </div>
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;" class="card">
     <div>
         <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=maya&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
     </div>
@@ -29,12 +29,15 @@
  
   
 <div align="center">
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My profiles</h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+    
+ 
+ ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+    
 </div>
+Other Skills:
 
 - I am a front-end web developer with 10+ years of experience..
 - MainStack is HTML5,CSS3(SASS,LESS),JAVASCRIPT(ES6),REACT,NEXT
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My other skills</h2>
 - <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain,
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
@@ -43,6 +46,7 @@
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
+
 
 <div align="center">
 
