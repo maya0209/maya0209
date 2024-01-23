@@ -19,10 +19,9 @@
 ![](https://komarev.com/ghpvc/?username=maya&style=flat&color=F1cc7b)
 
 <div style="display: flex;">
-    <div style="float: left; margin-left: 10px;"><img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=maya&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" /> </div>
-    <div style="float: left;margin-left: 10px;><img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=maya&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph"  />
-</div>
-    <div style="float: left;margin-left: 10px;> <img src="https://github-readme-stats-k4xr.vercel.app/api?username=maya&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  /></div>
+    <div><img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=maya&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" /> </div>
+    <div><img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=maya&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph"  />
+    <div>  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=maya&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  /></div>
   
 
   
