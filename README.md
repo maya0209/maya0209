@@ -17,19 +17,17 @@
  <img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph"  />
   <img src="https://github-readme-stats-k4xr.vercel.app/api?username=jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  />
 
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My profiles</h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- I'm a rich experienced developer for large projects and ready to start your project anytime.
-- Enterprise application development and support like <b>Metaverse</b> : WebGL + Blockchain + Frontend/Backend
+- I am a front-end web developer with 10+ years of experience..
+- MainStack is HTML5,CSS3(SASS,LESS),JAVASCRIPT(ES6),REACT,NEXT
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My other skills</h2>
 - <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain,
-- <b>Blockchain</b> : Bitcoin | Ethereum | BSC | Polygon | Solana | Near | Hedera - Smart contract | Dapp | DeFi | Dex | GameFi
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
-- <b>Mobile</b> : React-Native | Expo | EAS | Ionic
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
-- <b>Linux System</b> : SUSE | CentOS | RedHat | Ubuntu
+- <b>Blockchain</b> : Bitcoin | Ethereum | BSC | Polygon | Solana | Near | Hedera - Smart contract | Dapp | DeFi | Dex | GameFi
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
-- Agile Methodology, Scrum Meeting
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 
