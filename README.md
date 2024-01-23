@@ -17,13 +17,7 @@
     <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=maya&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" />
    
 </div>  
-  
-<div align="center">
-    
- 
- ## My profile.
-    
-</div>
+
 <div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
 
 - <b>MainStack</b> HTML5 | CSS3(SASS,LESS) | JAVASCRIPT(ES6) | REACT | NEXT | PYTHON | MERN 
