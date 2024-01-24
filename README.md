@@ -25,8 +25,6 @@
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
 
-<i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
-
 
 <div align="center">
 
