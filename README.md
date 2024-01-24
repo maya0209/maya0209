@@ -20,13 +20,10 @@
 
 <div align="center"><h2 font-weight="bold">I am a front-end web developer with 10+ years of experience..<h2></div>
 
-- <b>MainStack</b> HTML5 | CSS3(SASS,LESS) | JAVASCRIPT(ES6) | REACT | NEXT | PYTHON | MERN 
+- <b>Main</b> HTML5 | CSS3(SASS,LESS) | JAVASCRIPT(ES6) | REACT | NEXT | PYTHON | MERN 
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
-- <b>AI</b> : OpenAI, ChatGPT, San Francisco GPT, Census GPT, GPT-3, GPT-4, LangChain,
-- <b>Blockchain</b> : Bitcoin | Ethereum | BSC | Polygon | Solana | Near | Hedera - Smart contract | Dapp | DeFi | Dex | GameFi
-- Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 
