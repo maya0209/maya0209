@@ -24,7 +24,6 @@
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular | Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd
 - <b>Back-end</b> : Node | Express | Django | Laravel | CodeIgniter
 - <b>Database</b> : Elasticsearch | Mysql | MongoDB | PostgreSQL | Firebase
-</div>
 
 
 <div align="center">
